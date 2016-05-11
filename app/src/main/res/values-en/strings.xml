@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MicroReader</string>
+    <string name="activity_setting_title">Settings</string>
+    <string name="cache_size">Cache size:</string>
+    <string name="common_i_know">I see</string>
+    <string name="common_loading">Loading</string>
+    <string name="common_loading_error">Loading error,please check your network!</string>
+    <string name="common_view_loading">Loading hardly…</string>
+    <string name="common_view_loading_ok">Load successfully</string>
+    <string name="common_view_release">Release to load</string>
+    <string name="comon_retry">Retry</string>
+    <string name="default_description">The beauty of life need you to find by your heart, with eye to recording.</string>
+    <string name="description">Small and beautiful reading experience</string>
+    <string name="fragment_guokr_title">Guokr Hot</string>
+    <string name="fragment_video_get_url">Getting player address…</string>
+    <string name="fragment_video_get_url_error">Get player address fail!</string>
+    <string name="fragment_video_title">Video</string>
+    <string name="fragment_wexin_title">Wechat Hot</string>
+    <string name="fragment_zhihu_title">Zhihu Daily</string>
+    <string name="help_and_suggest">Help and suggestion</string>
+    <string name="re_request_permission">No permission,Nothing to do!</string>
+    <string name="request_storage_permission">Please give me permission to cache file!</string>
+    <string name="share">Share to</string>
+    <string name="share_tail"> (Share from MicroReader,The beauty of life need you to find by your heart, with eye to recording.)</string>
+    <string name="toast_wifi_refresh_data">Data will not be load because no wifi!</string>
+    <string name="about">about</string>
+    <string name="fragment_it_title">IT Home</string>
+    <string name="update_title">Update available</string>
+    <string name="update_description">The latest version %1$s is available of my app!\nReleaseNote:\n%2$s</string>
+    <string name="update_button">Update now</string>
+    <string name="update_not_show">Huh, not interested</string>
+    <string name="update_no_update">Update not available</string>
+    <string name="update_no_update_description">No update available. Check for updates again later!</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="activity_change_channel_other_channel">Other channel</string>
+    <string name="activity_change_channel_show_channel">Show channel</string>
+    <string name="activity_change_channel_title">Change Channel</string>
+    <string name="open_with_browser">Open with browser</string>
+    <string name="common_load_complete">Load success</string>
+    <string name="common_load_more">Load more</string>
+    <string name="common_refresh_complete">Refresh complete</string>
+    <string name="common_swipe_to_load_more">Swipe to load more</string>
+    <string name="common_swipe_to_refresh">Swipe to refresh</string>
+    <string name="common_set_read">Set as read</string>
+    <string name="common_set_unread">Set as unread</string>
+</resources>
